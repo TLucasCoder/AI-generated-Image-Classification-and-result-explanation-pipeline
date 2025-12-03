@@ -12,6 +12,7 @@
 /test_data_zip
 /archive_to_sumbit
 /.conda
+/src/others
 application_multiclass.py
 testing.py
 simpleCNN_example.py

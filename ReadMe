@@ -1,5 +1,7 @@
 Structure of the Project Archieve
-This project archive contains two major parts: the training python file and the application file. 
+
+This project archive contains two major parts: the training file and the application file. 
+
 For the use of the application prototype you can run the application file and choose the model type and import images for analysis for the authenticity of images. 
 
 There are four models included in this archieve in the folder of final_model, with two hierarchical model and two multiclass model trained with two datasets of different size but of the same structure for performance testing. 
@@ -7,3 +9,5 @@ There are four models included in this archieve in the folder of final_model, wi
 The training dataset is not included because of sizing issues.
 
 The required dependencies are listed in the requirement.txt file.
+
+The examples of classification and explanation results can be accessed in the /result_example folder.
