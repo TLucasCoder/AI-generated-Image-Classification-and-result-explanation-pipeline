@@ -1,0 +1,18 @@
+/archive*
+/Testing_result
+/Artifact dataset
+/real_vs_fake
+/mixNmatch*
+/mixNmatch2*
+/mixNmatch_multiclass
+/mixNmatch2_multiclass
+/test_image_for_application
+/misclassification
+/testing_data
+/test_data_zip
+/archive_to_sumbit
+/.conda
+application_multiclass.py
+testing.py
+simpleCNN_example.py
+multiclass_trainer.py
